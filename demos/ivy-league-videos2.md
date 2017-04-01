@@ -25,5 +25,3 @@ layout: page
 </div>
 <div id="fade" class="black_overlay"><a class="closelink" href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">Close</a></div>
 <p><iframe style="overflow: hidden;" src="https://ivyleague.microsearch.net?q=technology&p=0" width="100%" height="800px" frameborder="0"></iframe></p>
-
-Tester
