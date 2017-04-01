@@ -17,4 +17,4 @@ A hosted client digital library may contain thousands, hundreds of thousands or 
 
 Each client digital library is hosted in a web portal; the web portal may be private and secure, or it may be open and public. Public libraries, for instance, use public web portals, while Research Associations generally have private, secure web portals. Each of our client web portals has been highly customized to give each client exactly the search & retrieval experience desired.
 
-This is a test.
+This is a test. Part 2.
