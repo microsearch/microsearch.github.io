@@ -1,9 +1,11 @@
 ---
+title: 'A Wealth of Knowledge: Searching the Ivy League''s Videos'
+date: 2017-02-21 13:36:35 -05:00
+categories:
+- video-search
 layout: post
-title:  "A Wealth of Knowledge: Searching the Ivy League's Videos"
-date:   2017-02-21 13:36:35 -0500
-categories: video-search
 ---
+
 One of the best things about YouTube, in my opinion, is the amount of videos available from colleges and universities around the world. If you haven’t seen this for yourself, I highly recommend <a href="https://www.youtube.com/results?search_query=university+or+college&amp;filters=channel&amp;lclk=channel">searching</a> YouTube Channels for the word “college” or “university.” Literally every major institution of higher education has a Channel. But be warned, this will undoubtedly lead to  a YouTube Spiral</a>.
 
 Here at Microsearch, we love adding to our education by watching these freely available videos. To that end, and to show off the amazing capabilities of our new Video Search product, we decided to create a collection of all the publicly-available videos from each of the Ivy League schools, including Harvard, Yale, Columbia, Brown, Dartmouth, Cornell, Princeton, and UPenn. We thought this would be a cool idea, but we didn’t realize how amazing it really is to have all of that educational content in one place until we put the Video Search site together and started running searches.

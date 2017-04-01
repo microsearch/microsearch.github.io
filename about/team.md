@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Management Team
-permalink: /about/team/
+permalink: "/about/team/"
+layout: page
 sections:
 - <li><a href="/about/">About Us</a></li>
 - <li><a href="/about/team/">Management Team</a></li>

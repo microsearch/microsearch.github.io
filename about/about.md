@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About Us
-permalink: /about/
+permalink: "/about/"
+layout: page
 weight: 1
 type: page
 sections:

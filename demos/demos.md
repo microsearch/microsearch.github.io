@@ -1,13 +1,12 @@
 ---
-layout: page
 title: Demos
-permalink: /demos/
+permalink: "/demos/"
+layout: page
 weight: 3
 type: page
 sections:
-- <li><a href="ivy-league-videos/">Ivy League Videos</a></li>
-  <li><a href="university-videos/">University Videos</a></li>
-
+- <li><a href="ivy-league-videos/">Ivy League Videos</a></li> <li><a href="university-videos/">University
+  Videos</a></li>
 ---
 
 Below are a few demos highlighting <strong>VideoSearch</strong>'s capabilities. (If you'd like a custom demo using your own video content, don't hesitate to [get in touch](../contact/).
