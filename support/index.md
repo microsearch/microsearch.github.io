@@ -5,6 +5,7 @@ exclude: true
 type: page
 layout: page
 ---
+
 Microsearch’s goal is make information search and retrieval as simple as possible, for both our
 video search products and for our document search products.
 
