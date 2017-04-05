@@ -1,39 +1,38 @@
 ---
-title: Video Transcript and Document Full Text Search
-permalink: "/services/search/"
+title: MultimediaSearch for Distance Learning
+permalink: "/services/education/"
 layout: landing
-description: Microsearch provides document storage and full text search and video
-  storage and full transcript search.
+description: Microsearch provides multimedia search functionality for online education.
 weight: 2
 ---
 
 <div class="landing">
-    <div id="searchbanner" class="landingbanner">
-      <h1>Enhance Your Videos and Documents</h1>
-      <h2>Video Transcript &amp; Document Full Text Search</h2>
+    <div id="educationbanner" class="landingbanner">
+      <h1>Online, the Classroom Can Be Anywhere.</h1>
+      <h2>With MultimediaSearch, So Can You.</h2>
     </div>
     <div class="wrapper">
-        <div class="landingcolumn" id="searchcol1">
-            <h2>Video Transcripts are Good. Searchable Transcripts are Better.</h2>
-            <img src="{{site.baseurl}}/images/vids.jpg" />
+        <div class="landingcolumn" id="educationcol1">
+            <h2>Online video drives online education.</h2>
+            <img src="{{site.baseurl}}/images/coffeeshop.jpg" />
             <p>
-                Whether your video transcripts are automatically (and imperfectly) created by YouTube, or you pay for professionally generated, highly accurate video transcriptions, their value is unlocked by making them fully searchable. MultimediaSearch does just that.
+                But you already knew that. Contemporary syllabi feature links to all kinds of videos, from news items to lectures. That means your video content is spread across the web, not housed where it should be, on your website. Centralize your video content. Your students will thank you.
             </p>
         </div>
 
-        <div class="landingcolumn middle" id="searchcol2">
-            <h2>Full Text Search + Metadata = Everything</h2>
+        <div class="landingcolumn middle" id="educationcol2">
+            <h2>Gather Your Video Resources into a Searchable Online Library</h2>
             <img src="{{site.baseurl}}/images/search.jpg" />
             <p>
-                MultimediaSearch isn't just about full-text search, though that is a powerful tool. We also index metadata--information about the documents--that is also searchable. So, for example, you can find a document that contains a particular string of text and printed on a particular date. The only limit to the metadata we can index is the information you can provide us.
+                Online videos can be an indispensable educational tool. But keeping track of media can feel like a full time job. That’s where we come in. VideoSearchfrom Microsearch lets you collect all your videos into one searchable library and publish it on a personalized website. No more sending students to YouTube, where distractions abound.
             </p>
         </div>
 
-        <div class="landingcolumn" id="searchcol3">
-            <h2>Search Your Way to Answers</h2>
+        <div class="landingcolumn" id="educationcol3">
+            <h2>MultimediaSearch is Built for Education</h2>
             <img src="{{site.baseurl}}/images/searchcomp.jpg" />
             <p>
-                Typically, the only way to navigate online videos is by clicking the timing bar at the bottom of a video player. But this is inefficient. With fully indexed searchable transcripts, users can search their way into a video and even skip to the content they're interested in by clicking the transcript.
+                We compiled all publicly-available videos from the world's top universities, indexed their mostly automated voice recognition transcripts, and made them fully searchable. Give it a try with our fully functional demo <a href="/demos/university-videos/">here</a>.
             </p>
         </div>
 

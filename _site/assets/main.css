@@ -486,6 +486,9 @@ pre {
 #seobanner {
   background: url("../images/seo_lg.png") center no-repeat; }
 
+#educationbanner {
+  background: url("../images/classroom.jpg") center no-repeat; }
+
 .landingbanner h2 {
   text-shadow: 0 0 5px #000; }
 
@@ -554,7 +557,8 @@ pre {
   border: solid 1px #fff;
   border-radius: 10px; }
 
-#contactbox input {
+#contactbox input,
+#contactbox textarea {
   height: 22px;
   padding: 10px;
   border: solid 1px #e8e8e8;
@@ -563,6 +567,9 @@ pre {
   border-radius: 10px;
   display: block;
   margin: 0 0 15px 0; }
+
+#contactbox textarea {
+  height: 80px; }
 
 #contactbox input#sendbutton {
   height: 44px;

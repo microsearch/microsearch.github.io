@@ -14,28 +14,28 @@ weight: 3
       <h2>Video Search Engine Optimization &amp; Marketing</h2>
     </div>
     <div class="wrapper">
-        <div class="landingcolumn" id="searchcol1"><a href="here">
+        <div class="landingcolumn" id="searchcol1">
             <h2>Your Videos Can Get Lost on YouTube. It’s Time to Get Found.</h2>
             <img src="{{site.baseurl}}/images/videoplayer.png" />
             <p>
                 Rather than hope YouTube users will find your videos on YouTube, drive traffic to your own website, where your videos are accompanied by transcripts that are fully searchable and where social media shares will direct new traffic to your site. MultimediaSearch provides search engine optimization for your videos.
-            </p></a>
+            </p>
         </div>
 
-        <div class="landingcolumn middle" id="searchcol2"><a href="here">
+        <div class="landingcolumn middle" id="searchcol2">
             <h2>Your Content, Your Website</h2>
             <img src="{{site.baseurl}}/images/yourwebsite.jpg" />
             <p>
                 If a person is searching for a video, they might enter a few keywords into Google search. If your YouTube video matches their search query, they will be taken to your page on YouTube. This is good, but how much better would it be to have them directed to your website where all of your videos are collected, and where they are presented without YouTube's distracting links.
-            </p></a>
+            </p>
         </div>
 
-        <div class="landingcolumn" id="searchcol3"><a href="here">
+        <div class="landingcolumn" id="searchcol3">
             <h2>Your videos are a valuable SEO tool</h2>
             <img src="{{site.baseurl}}/images/videobanner-cropped-1024x758.jpg" />
             <p>
                 Chances are, your videos contain spoken words that, if indexed, would be a valuable search engine optimization tool for your website. But the problem is, if they're on YouTube, the words in your video are not indexed, making them completely opaque to search engines. MultimediaSearch indexes the words in your videos transcripts, and embeds them in your site so that they can be found by search engines like Google.
-            </p></a>
+            </p>
         </div>
 
 
