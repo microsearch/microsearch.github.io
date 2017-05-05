@@ -6,7 +6,7 @@
   height: 52px;
   position: fixed;
   background: #fff;
-  opacity: .97;
+  opacity: .95;
   width: 100%;
   z-index: 1;
   box-shadow: 0 0 5px #ddd;
@@ -366,10 +366,6 @@
 
 /* Homepage and Landing Pages */
 
-#homebanner {
-  background: url("../images/work.jpg") bottom no-repeat;
-  background-size: cover;
-}
 
 .homecolumn {
   width: -webkit-calc(33% - #{$spacing-unit});
@@ -455,6 +451,12 @@
 
 /* Landing pages */
 
+#homebanner {
+  background: url("../images/office2.png") bottom no-repeat;
+  background-size: cover;
+}
+
+
 #conversionbanner {
   background: url("../images/vids-large.jpg") bottom no-repeat;
 }
@@ -468,11 +470,11 @@
 }
 
 #educationbanner {
-  background: url("../images/classroom.jpg") center no-repeat;
+  background: url("../images/classroom.png") center no-repeat;
 }
 
-.landingbanner h2 {
-  text-shadow: 0 0 5px #000;
+#educationbanner.landingbanner h1 {
+  padding: 20px 0 0 0;
 }
 
 .landingbanner {
@@ -507,6 +509,7 @@
   color: $grey-color-light;
   font-size: 32px;
   text-align: center;
+  text-shadow: 0 0 10px #000;
 
   @include media-query($on-palm) {
     font-size: 26px;
