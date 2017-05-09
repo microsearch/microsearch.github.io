@@ -4,6 +4,7 @@ permalink: "/demos/ivy-league-videos/"
 layout: page
 type: page
 weight: 1
+description: MicroSearch's Ivy League Video Demo aggregates the metadata and transcripts of the videos from the main YouTube Channels of each the 8 Ivy League Schools. Search, browse, and read along with transcripts from the world's top universities.
 sections:
 - <li><b>Ivy League Videos</b></li> <li><a href="/demos/university-videos/">University
   Videos</a></li>

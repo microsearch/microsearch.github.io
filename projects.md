@@ -4,6 +4,7 @@ permalink: "/services/"
 layout: page
 weight: 2
 type: page
+description: Microsearch's services include video and document conversion, transcript and document full text search, and video SEO and marketing.
 sections:
 - <li><a href="video-document-conversion/">Video &amp; Document Conversion</a></li>
   <li><a href="search/">Transcript &amp; Document Full Text Search</a></li> <li><a
