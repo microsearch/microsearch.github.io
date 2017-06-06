@@ -1,5 +1,5 @@
 ---
-title: Video Transcript and Document Full Text Search
+title: Video and Document Digitization, Search, and SEO
 layout: home
 description: MicroSearch provides Video and Document Digitization, Search, and SEO
   for a wide variety of clients in the professional, educational, and labor sectors.
@@ -42,4 +42,3 @@ abouttext: MicroSearch Corporation was founded in 1996 near Boston. We are a bou
   useful and valuable by providing new viewer enhancement features to client videos...Find,
   Navigate, Clip.</p>
 ---
-
