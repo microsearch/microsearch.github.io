@@ -2,7 +2,8 @@
 title: Management Team
 permalink: "/about/team/"
 layout: page
-description: MicroSearch provides Video and Document Digitization, Search, and SEO for a wide variety of clients in the professional, educational, and labor sectors.
+description: MicroSearch provides Video and Document Digitization, Search, and SEO
+  for a wide variety of clients in the professional, educational, and labor sectors.
 sections:
 - <li><a href="/about/">About Us</a></li>
 - <li><a href="/about/team/">Management Team</a></li>

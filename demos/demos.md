@@ -4,7 +4,8 @@ permalink: "/demos/"
 layout: page
 weight: 3
 type: page
-description: MicroSearch provides advanced video search capabilities. Check out some live demos and contact us to get your own demo today!
+description: MicroSearch provides advanced video search capabilities. Check out some
+  live demos and contact us to get your own demo today!
 sections:
 - <li><a href="ivy-league-videos/">Ivy League Videos</a></li> <li><a href="university-videos/">University
   Videos</a></li>

@@ -6,8 +6,9 @@ type: page
 sections:
 - <li><a href="/about/">About Us</a></li>
 - <li><a href="/about/team/">Management Team</a></li>
+description: Microsearch provides Video and Document Digitization, Search, and SEO
+  for a wide variety of clients in the professional, educational, and labor sectors.
 layout: page
-description: Microsearch provides Video and Document Digitization, Search, and SEO for a wide variety of clients in the professional, educational, and labor sectors.
 ---
 
 Microsearch Corporation was founded in 1996 near Boston. We are a search engine company, and provide video and document search engine services for client organizations across the country, providing hosted portal solutions.
