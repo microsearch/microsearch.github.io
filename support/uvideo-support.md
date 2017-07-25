@@ -6,7 +6,7 @@ type: page
 layout: page
 ---
 
-The AFT Headquarters mobile application is designed to be as simple to use as possible.
+The University Videos mobile application is designed to be as simple to use as possible.
 To the right are a few screenshots with notations to keep you on the right track.
 This first screenshot shows how to perform a basic search.
 

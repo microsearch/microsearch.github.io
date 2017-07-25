@@ -489,6 +489,10 @@ pre {
 #educationbanner {
   background: url("../images/classroom.png") center no-repeat; }
 
+#mobilebanner {
+  background: url("../images/mobile.jpeg") center no-repeat;
+  background-size: cover; }
+
 #educationbanner.landingbanner h1 {
   padding: 20px 0 0 0; }
 
@@ -499,7 +503,7 @@ pre {
   background-size: cover; }
   @media screen and (max-width: 600px) {
     .landingbanner {
-      width: -webkit-calc(100% - 20px);
+      width: -webkit-calc(100% - $spacing-unit);
       padding: 0 20px; } }
 
 .landingbanner h1 {
@@ -532,6 +536,9 @@ pre {
   float: left;
   padding: 0 20px 20px 0; }
 
+.landingcolumn img.mobileimg {
+  width: 220px; }
+
 .middle img {
   float: right;
   padding: 0 0 20px 20px; }
@@ -543,6 +550,10 @@ pre {
   border-bottom: solid 1px #e8e8e8;
   color: #675c9a;
   clear: both; }
+
+.landingcolumn li {
+  margin-left: 20px;
+  color: #828282; }
 
 .landingcolumn p {
   margin: 20px 0;
