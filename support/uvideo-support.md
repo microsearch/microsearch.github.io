@@ -1,6 +1,7 @@
 ---
 title: University Videos App Support
 permalink: "/support/uvideo-support/"
+position: 17
 weight: 1
 type: page
 layout: page

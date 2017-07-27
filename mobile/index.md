@@ -4,11 +4,11 @@ permalink: "/services/mobile/"
 id: mobile
 description: Your Searchable Video Library in the Palm of Your Hand
 weight: 5
-bannertext: Your Searchable Video Library in the Palm of Your Hand
+bannertext: Your searchable Video Library in the Palm of Your Hand
 bannertext2: Full Featured iOS Apps for Your Videos
 col1head: Bring your entire video library with you...
 col1img: ios-app.png
-col1text: "<p>Your Searchable Video Library is a powerful tool when accessed from
+col1text: "<p>Your searchable Video Library is a powerful tool when accessed from
   a web browser--fully indexed and searchable transcripts scrolling alongside your
   videos, with an easily navigable interface. \n\nAnd now, with Video Library Mobile
   you can take these powerful features with you anywhere you go on your mobile device.</p><p>With
@@ -19,6 +19,7 @@ col1text: "<p>Your Searchable Video Library is a powerful tool when accessed fro
   can scroll ahead of the video to see what’s coming up later, and jump directly to
   any chosen spot in the video.</li><li>Viewers can jump from hit to hit while their
   playing video.</li></ul><p>Check out our featured apps:</p>"
+Field name: 
 layout: landingpage-1col
 ---
 

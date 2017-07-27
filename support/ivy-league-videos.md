@@ -1,6 +1,7 @@
 ---
 title: Ivy League Videos App Support
 permalink: "/support/ivy-league-videos-support/"
+position: 10
 weight: 1
 type: page
 layout: page

@@ -1,6 +1,7 @@
 ---
 title: Video Search Engine Optimization and Marketing
 permalink: "/services/seo/"
+position: 13
 id: seo
 layout: landingpage
 description: Multimedia Reference Corporation indexes the words in your video transcripts

@@ -1,6 +1,7 @@
 ---
 title: University Videos Demo
 permalink: "/demos/university-videos/"
+position: 16
 layout: page
 type: page
 weight: 2
