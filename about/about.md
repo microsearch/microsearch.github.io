@@ -1,6 +1,7 @@
 ---
 title: About Us
 permalink: "/about/"
+position: 0
 weight: 1
 type: page
 sections:

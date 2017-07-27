@@ -1,6 +1,7 @@
 ---
 title: MultimediaSearch for Distance Learning
 permalink: "/services/education/"
+position: 5
 id: education
 layout: landingpage
 description: Multimedia Reference Corporation provides multimedia search functionality

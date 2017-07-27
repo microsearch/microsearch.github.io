@@ -1,6 +1,7 @@
 ---
 title: Ivy League Video Demo
 permalink: "/demos/ivy-league-videos/"
+position: 9
 layout: page
 type: page
 weight: 1

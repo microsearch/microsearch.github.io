@@ -1,6 +1,7 @@
 ---
 title: Demos
 permalink: "/demos/"
+position: 4
 layout: page
 weight: 3
 type: page

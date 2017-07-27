@@ -1,6 +1,7 @@
 ---
 title: AFT Videos App Support
 permalink: "/support/aft-support/"
+position: 1
 weight: 1
 type: page
 layout: page

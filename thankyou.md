@@ -1,6 +1,7 @@
 ---
 title: Thank you!
 permalink: "/thankyou/"
+position: 15
 layout: page
 type: page
 exclude: true

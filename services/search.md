@@ -1,6 +1,7 @@
 ---
 title: Video Transcript and Document Full Text Search
 permalink: "/services/search/"
+position: 12
 id: search
 layout: landingpage
 description: Multimedia Reference Corporation provides document storage and full text

@@ -1,6 +1,7 @@
 ---
 title: GMG Videos App Support
 permalink: "/support/gmg/"
+position: 6
 weight: 1
 type: page
 layout: page

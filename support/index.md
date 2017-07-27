@@ -1,6 +1,7 @@
 ---
 title: Support
 permalink: "/support/"
+position: 7
 exclude: true
 type: page
 layout: page

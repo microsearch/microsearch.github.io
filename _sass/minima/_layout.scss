@@ -210,6 +210,7 @@
 .footer-col-3 {
   width: -webkit-calc(45% - (#{$spacing-unit} / 2));
   width:         calc(45% - (#{$spacing-unit} / 2));
+  text-align: right;
 }
 
 @include media-query($on-laptop) {
@@ -473,9 +474,15 @@
   background: url("../images/classroom.png") center no-repeat;
 }
 
+#mobilebanner {
+  background: url("../images/mobile.jpeg") center no-repeat;
+  background-size: cover;
+}
+
 #educationbanner.landingbanner h1 {
   padding: 20px 0 0 0;
 }
+
 
 .landingbanner {
   width: 100%;
@@ -484,7 +491,7 @@
   background-size: cover;
 
 @include media-query($on-palm) {
-  width: -webkit-calc(100% - #{$spacing-unit});
+  width: -webkit-calc(100% - $spacing-unit);
   padding: 0 $spacing-unit;
 }
 
@@ -528,6 +535,10 @@
   padding: 0 $spacing-unit $spacing-unit 0;
 }
 
+.landingcolumn img.mobileimg {
+  width: 220px;
+}
+
 .middle img {
   float: right;
   padding: 0 0 $spacing-unit $spacing-unit;
@@ -543,6 +554,10 @@
   clear: both;
 }
 
+.landingcolumn li {
+  margin-left: 20px;
+  color: $grey-color;
+}
 .landingcolumn p {
   margin: $spacing-unit 0;
   color: $grey-color;
