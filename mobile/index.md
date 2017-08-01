@@ -19,7 +19,7 @@ col1text: "<p>Your searchable Video Library is a powerful tool when accessed fro
   can scroll ahead of the video to see what’s coming up later, and jump directly to
   any chosen spot in the video.</li><li>Viewers can jump from hit to hit while their
   playing video.</li></ul><p>Check out our featured apps:</p>"
-Field name:
+Field name: 
 layout: landingpage-1col
 ---
 
