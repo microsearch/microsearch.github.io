@@ -1,9 +1,9 @@
 ---
 title: Video Clip & Share
 permalink: "/services/clipping/"
+published: false
 position: 5
 id: clipping
-layout: landingpage
 description: Multimedia Reference Corporation provides multimedia search functionality
   for online education.
 weight: 5
@@ -24,5 +24,6 @@ col3img: searchcomp.jpg
 col3text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer fringilla
   tellus libero, non tincidunt augue fringilla eget. Vestibulum quis velit a sem porttitor
   vestibulum. Vivamus aliquam elit ut sollicitudin sollicitudin.
+layout: landingpage
 ---
 
