@@ -2,7 +2,7 @@
 title: Video Clip & Share
 permalink: "/services/clipping/"
 position: 5
-id: education
+id: clipping
 layout: landingpage
 description: Multimedia Reference Corporation provides multimedia search functionality
   for online education.
@@ -28,4 +28,3 @@ col3text: We compiled all publicly-available videos from the world's top univers
   indexed their mostly automated voice recognition transcripts, and made them fully
   searchable. Give it a try with our fully functional demo <a href="/demos/university-videos/">here</a>.
 ---
-
