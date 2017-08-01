@@ -10,7 +10,7 @@ weight: 5
 bannertext: Online, the Classroom Can Be Anywhere.
 bannertext2: With MultimediaSearch, So Can You.
 col1head: Online video drives online education.
-col1img: social.jpg
+col1img: coffeeshop.jpg
 col1text: But you already knew that. Contemporary syllabi feature links to all kinds
   of videos, from news items to lectures. That means your video content is spread
   across the web, not housed where it should be, on your website. Centralize your
