@@ -1,6 +1,6 @@
 ---
 title: Mobile Apps
-permalink: "/services/mobile/"
+permalink: "/mobile/"
 id: mobile
 description: Your Searchable Video Library in the Palm of Your Hand
 weight: 5
@@ -22,4 +22,3 @@ col1text: "<p>Your searchable Video Library is a powerful tool when accessed fro
 Field name: 
 layout: landingpage-1col
 ---
-
