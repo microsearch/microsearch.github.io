@@ -28,19 +28,25 @@ homecol3text: Your documents and videos can be a valuable SEO tool, but if their
 homecol4link: services/education/
 homecol4head: Search Solutions for Distance Learning
 homecol4img: coffeeshop.jpg
-homecol4text: Online videos can be an indispensable educational tool. But keeping track of media can feel like a full time job. That’s where we come in. VideoSearch from Microsearch lets you collect all your videos into one searchable library and publish it on a personalized website. No more sending students to YouTube, where distractions abound.
+homecol4text: Online videos can be an indispensable educational tool. But keeping
+  track of media can feel like a full time job. That’s where we come in. VideoSearch
+  from Microsearch lets you collect all your videos into one searchable library and
+  publish it on a personalized website. No more sending students to YouTube, where
+  distractions abound.
 homecol5link: services/clipping/
 homecol5head: Advanced Video Clip &amp; Share Capabilities
 homecol5img: social.jpg
-homecol5text: With MultimediaSearch, your videos are also your documents. You can read a transcript as it scrolls along side your video. Clicking a line in the transcript will jump to the part of the video in which the line is spoken. But have you ever wanted to share a particular clip of a video? Now you can.
+homecol5text: With MultimediaSearch, your videos are also your documents. You can
+  read a transcript as it scrolls along side your video. Clicking a line in the transcript
+  will jump to the part of the video in which the line is spoken. But have you ever
+  wanted to share a particular clip of a video? Now you can.
 homecol6link: mobile/
 homecol6head: Your Video Library in the Palm of Your Hand
 homecol6img: app_ss.png
 homecol6text: Your searchable Video Library is a powerful tool when accessed from
   a web browser--fully indexed and searchable transcripts scrolling alongside your
-  videos, with an easily navigable interface. And now, with Video Library Mobile
-  you can take these powerful features with you anywhere you go on your mobile device.
-
+  videos, with an easily navigable interface. And now, with Video Library Mobile you
+  can take these powerful features with you anywhere you go on your mobile device.
 clientimg: clients.png
 abouthead: Who is MicroSearch?
 abouttext: MicroSearch Corporation was founded in 1996 near Boston. We are a boutique
@@ -59,3 +65,4 @@ abouttext: MicroSearch Corporation was founded in 1996 near Boston. We are a bou
   useful and valuable by providing new viewer enhancement features to client videos...Find,
   Navigate, Clip.</p>
 ---
+

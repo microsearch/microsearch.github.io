@@ -9,10 +9,9 @@ description: Microsearch's services include video and document conversion, trans
   and document full text search, and video SEO and marketing.
 sections:
 - <li><a href="video-document-conversion/">Video &amp; Document Conversion</a></li>
-  <li><a href="search/">Transcript &amp; Document Full Text Search</a></li>
-  <li><a href="seo/">Video SEO &amp; Marketing</a></li>
-  <li><a href="education/">MultimediaSearch for Distance Learning</a></li>
-  <li><a href="clipping/">Video Clip &amp; Share</a></li>
+  <li><a href="search/">Transcript &amp; Document Full Text Search</a></li> <li><a
+  href="seo/">Video SEO &amp; Marketing</a></li> <li><a href="education/">MultimediaSearch
+  for Distance Learning</a></li> <li><a href="clipping/">Video Clip &amp; Share</a></li>
 ---
 
 <div class="pagebox"><a href="video-document-conversion/">
