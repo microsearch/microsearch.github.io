@@ -28,5 +28,8 @@ col3text: Typically, the only way to navigate online videos is by clicking the t
   bar at the bottom of a video player. But this is inefficient. With fully indexed
   searchable transcripts, users can search their way into a video and even skip to
   the content they're interested in by clicking the transcript.
+highlight1: Add transcription to your online videos and make them searchable.
+highlight2: Search the full text and metadata for all your videos and documents.
+highlight3: Jump to the exact moment in a video where your query appears.
+highlight4: <a href="/contact/">Get in Touch</a>. Get a Free Demo.
 ---
-

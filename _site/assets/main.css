@@ -386,6 +386,15 @@ pre {
       width: -webkit-calc(100% - 20px);
       text-align: left; } }
 
+#rcolumn_landing {
+  width: -webkit-calc(20% - 20px);
+  padding: 20px;
+  text-align: left; }
+  @media screen and (max-width: 600px) {
+    #rcolumn_landing {
+      width: -webkit-calc(100% - 20px);
+      text-align: left; } }
+
 #lcolumn ul {
   list-style: none;
   margin: 0;
@@ -398,6 +407,34 @@ pre {
   font-style: italic;
   color: #888; }
 
+#rcolumn_landing ul {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+
+#rcolumn_landing ul li {
+  padding: 10px 0; }
+
+#rcolumn_landing h2 {
+  font-style: italic;
+  color: #888; }
+
+.highlight_box {
+  color: #fff;
+  font-size: 18px;
+  display: block;
+  padding: 10px;
+  background: #675c9a;
+  margin: 20px 0;
+  border-radius: 5px; }
+
+.highlight_box a {
+  color: #fff;
+  text-decoration: underline; }
+
+.highlight_box a:hover {
+  text-decoration: none; }
+
 #rcolumn {
   width: -webkit-calc(75% - 20px - 1px);
   padding: 20px;
@@ -406,6 +443,15 @@ pre {
     #rcolumn {
       width: -webkit-calc(100% - 20px);
       border-left: none; } }
+
+#lcolumn_landing {
+  width: -webkit-calc(75% - 20px - 1px);
+  padding: 20px;
+  border-right: solid 1px #e8e8e8; }
+  @media screen and (max-width: 600px) {
+    #lcolumn_landing {
+      width: -webkit-calc(100% - 20px);
+      border-right: none; } }
 
 /* Homepage and Landing Pages */
 .homecolumn {
@@ -473,22 +519,30 @@ pre {
 .pagebox a:hover {
   text-decoration: none; }
 
+.pagebox p a {
+  text-decoration: underline;
+  font-weight: bold; }
+
 /* Landing pages */
 #homebanner {
   background: url("../images/office2.png") bottom no-repeat;
   background-size: cover; }
 
 #conversionbanner {
-  background: url("../images/vids-large.jpg") bottom no-repeat; }
+  background: url("../images/vids-large.jpg") bottom no-repeat;
+  background-size: cover; }
 
 #searchbanner {
-  background: url("../images/search_lg.jpg") bottom no-repeat; }
+  background: url("../images/search_lg.jpg") bottom no-repeat;
+  background-size: cover; }
 
 #seobanner {
-  background: url("../images/seo_lg.png") center no-repeat; }
+  background: url("../images/seo_lg.png") bottom no-repeat;
+  background-size: cover; }
 
 #educationbanner {
-  background: url("../images/classroom.png") center no-repeat; }
+  background: url("../images/classroom.png") center no-repeat;
+  background-size: cover; }
 
 #mobilebanner {
   background: url("../images/mobile.jpeg") center no-repeat;
@@ -498,7 +552,7 @@ pre {
   padding: 20px 0 0 0; }
 
 #clippingbanner {
-  background: url("../images/share.jpg") center no-repeat;
+  background: url("../images/share.jpg") bottom no-repeat;
   background-size: cover; }
 
 .landingbanner {
@@ -515,7 +569,7 @@ pre {
   padding: 120px 0 0 0;
   margin: 0;
   text-align: center;
-  font-size: 50px;
+  font-size: 60px;
   color: #fff;
   text-shadow: 0 0 8px #000000; }
   @media screen and (max-width: 600px) {
@@ -525,7 +579,7 @@ pre {
 
 .landingbanner h2 {
   color: #e8e8e8;
-  font-size: 32px;
+  font-size: 40px;
   text-align: center;
   text-shadow: 0 0 10px #000; }
   @media screen and (max-width: 600px) {
@@ -602,7 +656,7 @@ pre {
   padding: 20px 20px 20px 0; }
 
 #ccol1 {
-  width: 65%; }
+  width: 55%; }
 
 #ccol2 {
   width: 30%; }

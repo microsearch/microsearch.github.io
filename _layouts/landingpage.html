@@ -8,6 +8,8 @@ layout: landing
         <h2>{{ page.bannertext2 }}</h2>
     </div>
     <div class="wrapper">
+      <div class="column" id="lcolumn_landing">
+
         <div class="landingcolumn" id="{{ page.id }}col1">
             <h2>{{ page.col1head }}</h2>
                   <img src="{{site.baseurl}}/images/{{ page.col1img }}" />
@@ -56,3 +58,14 @@ layout: landing
             </div>
           </div>
         </div>
+
+
+         </div>
+      <div class="column" id="rcolumn_landing">
+
+        <h2>Highlights</h2>
+        <p class="highlight_box">{{ page.highlight1 }}</p>
+        <p class="highlight_box">{{ page.highlight2 }}</p>
+        <p class="highlight_box">{{ page.highlight3 }}</p>
+        <p class="highlight_box">{{ page.highlight4 }}</p>
+      </div></div>

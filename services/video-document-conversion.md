@@ -30,5 +30,8 @@ col3text: Even if your important documents are mostly printed on paper, we can m
   preserves the original look of the document, while embedding a layer of hidden,
   fully-searchable text beneath. Combined with our decades-long experience as providers
   of database services and hosting, your old documents and videos will live on.
+highlight1: Convert analog documents or videos to digital.
+highlight2: Your documents and videos are online and fully searchable.
+highlight3: Scanning + Optical Character Recognition = Digital Documents.
+highlight4: <a href="/contact/">Get in Touch</a>. Get a Free Demo.
 ---
-
