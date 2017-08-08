@@ -343,10 +343,12 @@
 	width: -webkit-calc(20% - #{$spacing-unit});
   padding: $spacing-unit;
   text-align: left;
+  float: right;
 
 @include media-query($on-palm) {
-  width: -webkit-calc(100% - #{$spacing-unit});
+  width: -webkit-calc(100% - #{$spacing-unit} * 2);
   text-align: left;
+  float: none;
 }
 
 }
@@ -416,10 +418,12 @@
 	width: -webkit-calc(75% - #{$spacing-unit} - 1px);
   padding: $spacing-unit;
   border-right: solid 1px $grey-color-light;
+  float: left;
 
   @include media-query($on-palm) {
-    width: -webkit-calc(100% - #{$spacing-unit});
+    width: -webkit-calc(100% - #{$spacing-unit} * 2);
     border-right: none;
+    float: none;
   }
 
 }
@@ -562,8 +566,8 @@
   background-size: cover;
 
 @include media-query($on-palm) {
-  width: -webkit-calc(100% - $spacing-unit);
-  padding: 0px;
+  width: 100%;
+  padding: 0;
 }
 
 }
@@ -577,8 +581,7 @@
   text-shadow: 0 0 8px #000000;
 
   @include media-query($on-palm) {
-    width: 100%;
-    padding: 5% 0 0 0;
+    padding: 5%;
     font-size: 40px;
     margin:0;
   }
@@ -592,8 +595,7 @@
   text-shadow: 0 0 10px #000;
 
   @include media-query($on-palm) {
-    width: 100%;
-    padding: 5% 0 0 0;
+    padding: 5%;
     font-size: 26px;
     margin:0;
   }
@@ -646,9 +648,12 @@
 .contactform {
   padding: $spacing-unit;
   background: $grey-color-dark;
-  width: 280px;
+  width: 100%;
   border: solid 1px #fff;
   border-radius: 10px;
+  @include media-query($on-palm) {
+    width: -webkit-calc(100% - #{$spacing-unit});
+  }
 }
 
 #contactbox input,
@@ -661,6 +666,7 @@
   border-radius: 10px;
   display: block;
   margin: 0 0 15px 0;
+  width: -webkit-calc(100% - #{$spacing-unit});
 }
 
 #contactbox textarea {
@@ -679,15 +685,27 @@
 
 .contactcolumn {
   float: left;
-  padding: $spacing-unit $spacing-unit $spacing-unit 0;
+  padding: $spacing-unit;
+  @include media-query($on-palm) {
+    padding: 5px;
+
+  }
 }
 
 #ccol1 {
-  width: 55%;
+  width: 50%;
+  @include media-query($on-palm) {
+    width: -webkit-calc(100% - #{$spacing-unit});
+    text-align: left;
+  }
 }
 
 #ccol2 {
-  width: 30%;
+  width: 35%;
+  @include media-query($on-palm) {
+    width: -webkit-calc(100% - #{$spacing-unit});
+    text-align: left;
+  }
 }
 
 /* Demos pages */
