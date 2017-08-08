@@ -563,7 +563,7 @@
 
 @include media-query($on-palm) {
   width: -webkit-calc(100% - $spacing-unit);
-  padding: 0 $spacing-unit;
+  padding: 0px;
 }
 
 }
@@ -577,8 +577,10 @@
   text-shadow: 0 0 8px #000000;
 
   @include media-query($on-palm) {
-    padding: 40px 10px 0 10px;
+    width: 100%;
+    padding: 5% 0 0 0;
     font-size: 40px;
+    margin:0;
   }
 
 }
@@ -590,7 +592,10 @@
   text-shadow: 0 0 10px #000;
 
   @include media-query($on-palm) {
+    width: 100%;
+    padding: 5% 0 0 0;
     font-size: 26px;
+    margin:0;
   }
 
 }

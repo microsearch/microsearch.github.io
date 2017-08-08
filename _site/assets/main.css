@@ -563,7 +563,7 @@ pre {
   @media screen and (max-width: 600px) {
     .landingbanner {
       width: -webkit-calc(100% - $spacing-unit);
-      padding: 0 20px; } }
+      padding: 0px; } }
 
 .landingbanner h1 {
   padding: 120px 0 0 0;
@@ -574,8 +574,10 @@ pre {
   text-shadow: 0 0 8px #000000; }
   @media screen and (max-width: 600px) {
     .landingbanner h1 {
-      padding: 40px 10px 0 10px;
-      font-size: 40px; } }
+      width: 100%;
+      padding: 5% 0 0 0;
+      font-size: 40px;
+      margin: 0; } }
 
 .landingbanner h2 {
   color: #e8e8e8;
@@ -584,7 +586,10 @@ pre {
   text-shadow: 0 0 10px #000; }
   @media screen and (max-width: 600px) {
     .landingbanner h2 {
-      font-size: 26px; } }
+      width: 100%;
+      padding: 5% 0 0 0;
+      font-size: 26px;
+      margin: 0; } }
 
 .landingcolumn {
   width: -webkit-calc(100% - 20px);
