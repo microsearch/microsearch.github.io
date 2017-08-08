@@ -19,10 +19,9 @@ col1text: "<p>Your searchable Video Library is a powerful tool when accessed fro
   can scroll ahead of the video to see what’s coming up later, and jump directly to
   any chosen spot in the video.</li><li>Viewers can jump from hit to hit while their
   playing video.</li></ul><p>Check out our featured apps:</p>"
-highlight1: The power of MultimediaSearch in the palm of your hand.
+highlight1: The power of VideoSearch in the palm of your hand.
 highlight2: Get a fully customized iOS app featuring your video content.
 highlight3: Scrolling transcripts, easy navigation, and full text search.
 highlight4: <a href="/contact/">Get in Touch</a>. Get a Free Demo.
 layout: landingpage-1col
 ---
-
