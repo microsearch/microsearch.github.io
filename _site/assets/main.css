@@ -21,7 +21,7 @@ body {
   font-feature-settings: "kern" 1;
   font-kerning: normal; }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
   overflow-x: hidden;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -203,7 +203,7 @@ pre {
     display: block;
     border-bottom: solid 1px #e8e8e8;
     margin: 0; }
-    @media screen and (max-width: 600px) {
+    @media screen and (max-width: 700px) {
       .site-nav .sitemenu ul li {
         height: auto; } }
   .site-nav .sitemenu li ul {
@@ -229,7 +229,7 @@ pre {
     font-weight: normal; }
   .site-nav a:hover {
     color: #675c9a; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 700px) {
     .site-nav {
       position: absolute;
       top: 9px;
@@ -309,7 +309,7 @@ pre {
   .footer-col-3 {
     width: -webkit-calc(100% - (20px / 2));
     width: calc(100% - (20px / 2)); } }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
   .footer-col {
     float: none;
     width: -webkit-calc(100% - (20px / 2));
@@ -386,7 +386,7 @@ pre {
   width: -webkit-calc(20% - 20px);
   padding: 20px;
   text-align: right; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 700px) {
     #lcolumn {
       width: -webkit-calc(100% - 20px);
       text-align: left; } }
@@ -396,7 +396,7 @@ pre {
   padding: 20px;
   text-align: left;
   float: right; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 700px) {
     #rcolumn_landing {
       width: -webkit-calc(100% - 20px * 2);
       text-align: left;
@@ -446,7 +446,7 @@ pre {
   width: -webkit-calc(75% - 20px - 1px);
   padding: 20px;
   border-left: solid 1px #e8e8e8; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 700px) {
     #rcolumn {
       width: -webkit-calc(100% - 20px);
       border-left: none; } }
@@ -456,7 +456,7 @@ pre {
   padding: 20px;
   border-right: solid 1px #e8e8e8;
   float: left; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 700px) {
     #lcolumn_landing {
       width: -webkit-calc(100% - 20px * 2);
       border-right: none;
@@ -467,7 +467,7 @@ pre {
   width: -webkit-calc(33% - 20px);
   float: left;
   padding: 0 20px 0 0; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 700px) {
     .homecolumn {
       width: 100%;
       float: none; } }
@@ -569,7 +569,7 @@ pre {
   height: 360px;
   margin-bottom: 20px;
   background-size: cover; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 700px) {
     .landingbanner {
       width: 100%;
       padding: 0; } }
@@ -581,7 +581,7 @@ pre {
   font-size: 60px;
   color: #fff;
   text-shadow: 0 0 8px #000000; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 700px) {
     .landingbanner h1 {
       padding: 5%;
       font-size: 40px;
@@ -592,7 +592,7 @@ pre {
   font-size: 40px;
   text-align: center;
   text-shadow: 0 0 10px #000; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 700px) {
     .landingbanner h2 {
       padding: 5%;
       font-size: 26px;
@@ -639,7 +639,7 @@ pre {
   width: 100%;
   border: solid 1px #fff;
   border-radius: 10px; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 700px) {
     .contactform {
       width: -webkit-calc(100% - 20px); } }
 
@@ -670,20 +670,20 @@ pre {
 .contactcolumn {
   float: left;
   padding: 20px; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 700px) {
     .contactcolumn {
       padding: 5px; } }
 
 #ccol1 {
   width: 50%; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 700px) {
     #ccol1 {
       width: -webkit-calc(100% - 20px);
       text-align: left; } }
 
 #ccol2 {
   width: 35%; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 700px) {
     #ccol2 {
       width: -webkit-calc(100% - 20px);
       text-align: left; } }
