@@ -28,7 +28,7 @@ pagebox2text: Moving to the cloud is a great idea for any organization of any si
   search company. For nearly two decades we've been helping clients gain faster, more
   efficient access to their information. At first, that information was on CD-ROMS,
   then Web 1.0 document databases, and today we're proud to offer full-text search
-  solutions for documents <i>and</i> videos hosted in the cloud. <a href="/services/search/">Learn
+  solutions for documents <i>and</i> videos hosted in the cloud. <a href="/services/document-management-services-video-management-services">Learn
   more...</a>
 pagebox3link: seo/
 pagebox3head: Video SEO &amp; Marketing

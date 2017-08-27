@@ -12,7 +12,7 @@ homecol1img: vids.jpg
 homecol1text: As part of the full MultimediaSearch solution, we can convert your paper
   documents and old videos in any format--reel, VHS, DVD, etc.--into digital files,
   complete with transcripts, and incorporated into your own online library.
-homecol2link: services/search/
+homecol2link: services/document-management-services-video-management-services
 homecol2head: Transcript &amp; Document Full Text Search
 homecol2img: search.jpg
 homecol2text: MultimediaSearch makes your documents (digital or paper) and video transcripts
