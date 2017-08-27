@@ -9,7 +9,7 @@ description: MicroSearch provides document database and search engine software a
 weight: 2
 bannertext: Document and Video Management Services
 bannertext2: Online Database Services for PDFs and Videos
-col1head: MultimediaSearch Means One Online Database for Documents and Videos.
+col1head: One Online Database for Documents and Videos.
 col1img: vids.jpg
 col1text: Whether your content is videos, documents, or a mix of both, MultimediaSearch
   is the answer. MultimediaSearch is a fully searchable document management service
@@ -34,4 +34,3 @@ highlight2: Search the full text and metadata for all your videos and documents.
 highlight3: Jump to the exact moment in a video where your query appears.
 highlight4: <a href="/contact/">Get in Touch</a>. Get a Free Demo.
 ---
-
