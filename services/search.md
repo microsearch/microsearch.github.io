@@ -4,8 +4,7 @@ permalink: "/services/document-management-services-video-management-services/"
 position: 12
 id: search
 layout: landingpage
-description: MicroSearch provides document database and search engine software and
-  video database and search engine software.
+description: MicroSearch provides document management services and video management services and search engine software.
 weight: 2
 bannertext: Document and Video Management Services
 bannertext2: Online Database Services for PDFs and Videos
@@ -29,7 +28,7 @@ col3text: Typically, the only way to navigate online videos is by clicking the t
   bar at the bottom of a video player. But this is inefficient. With fully indexed
   searchable transcripts, users can search their way into a video and even skip to
   the content they're interested in by clicking the transcript.
-highlight1: Add transcription to your online videos and make them searchable.
+highlight1: Online document and video management servies with full text search.
 highlight2: Search the full text and metadata for all your videos and documents.
 highlight3: Jump to the exact moment in a video where your query appears.
 highlight4: <a href="/contact/">Get in Touch</a>. Get a Free Demo.
