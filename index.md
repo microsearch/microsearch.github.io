@@ -13,7 +13,7 @@ homecol1text: As part of the full MultimediaSearch solution, we can convert your
   documents and old videos in any format--reel, VHS, DVD, etc.--into digital files,
   complete with transcripts, and incorporated into your own online library.
 homecol2link: services/document-management-services-video-management-services
-homecol2head: Transcript &amp; Document Full Text Search
+homecol2head: Document and Video Management Services
 homecol2img: search.jpg
 homecol2text: MultimediaSearch makes your documents (digital or paper) and video transcripts
   (automatically created or professionally generated) infinitely more valuable by
@@ -65,4 +65,3 @@ abouttext: MicroSearch Corporation was founded in 1996 near Boston. We are a bou
   useful and valuable by providing new viewer enhancement features to client videos...Find,
   Navigate, Clip.</p>
 ---
-
