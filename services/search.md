@@ -11,7 +11,11 @@ bannertext: Document and Video Management Services
 bannertext2: Online Database Services for PDFs and Videos
 col1head: MultimediaSearch Means One Online Database for Documents and Videos.
 col1img: vids.jpg
-col1text: Whether your content is videos, documents, or a mix of both, MultimediaSearch is the answer. MultimediaSearch is a fully searchable document management service paired with the industry's best video management service, combined. Browse your documents and videos in our industry-leading table of contents, or search full text and meta-data across your entire collection.
+col1text: Whether your content is videos, documents, or a mix of both, MultimediaSearch
+  is the answer. MultimediaSearch is a fully searchable document management service
+  paired with the industry's best video management service, combined. Browse your
+  documents and videos in our industry-leading table of contents, or search full text
+  and meta-data across your entire collection.
 col2head: Full Text Search + Metadata = Everything
 col2img: search.jpg
 col2text: MultimediaSearch isn't just about full-text search, though that is a powerful
