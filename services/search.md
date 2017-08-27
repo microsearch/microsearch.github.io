@@ -7,8 +7,8 @@ layout: landingpage
 description: MicroSearch provides document database and search engine software and
   video database and search engine software.
 weight: 2
-bannertext: Document &amp; Video Database and Search
-bannertext2: Online Search Engines for PDFs and Videos
+bannertext: Document and Video Management Services
+bannertext2: Online Database Service for PDFs and Videos
 col1head: Video Transcripts are Good. Searchable Transcripts are Better.
 col1img: vids.jpg
 col1text: Whether your video transcripts are automatically (and imperfectly) created
@@ -33,4 +33,3 @@ highlight2: Search the full text and metadata for all your videos and documents.
 highlight3: Jump to the exact moment in a video where your query appears.
 highlight4: <a href="/contact/">Get in Touch</a>. Get a Free Demo.
 ---
-
