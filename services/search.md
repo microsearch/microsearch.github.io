@@ -8,13 +8,10 @@ description: MicroSearch provides document database and search engine software a
   video database and search engine software.
 weight: 2
 bannertext: Document and Video Management Services
-bannertext2: Online Database Service for PDFs and Videos
-col1head: Video Transcripts are Good. Searchable Transcripts are Better.
+bannertext2: Online Database Services for PDFs and Videos
+col1head: MultimediaSearch Means One Online Database for Documents and Videos.
 col1img: vids.jpg
-col1text: Whether your video transcripts are automatically (and imperfectly) created
-  by YouTube, or you pay for professionally generated, highly accurate video transcriptions,
-  their value is unlocked by making them fully searchable. MultimediaSearch does just
-  that.
+col1text: Whether your content is videos, documents, or a mix of both, MultimediaSearch is the answer. MultimediaSearch is a fully searchable document management service paired with the industry's best video management service, combined. Browse your documents and videos in our industry-leading table of contents, or search full text and meta-data across your entire collection.
 col2head: Full Text Search + Metadata = Everything
 col2img: search.jpg
 col2text: MultimediaSearch isn't just about full-text search, though that is a powerful
