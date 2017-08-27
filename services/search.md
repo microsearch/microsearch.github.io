@@ -1,6 +1,6 @@
 ---
 title: Document and Video Management Services
-permalink: "/services/document-management-services-video-management-services"
+permalink: "/services/document-management-services-video-management-services/"
 position: 12
 id: search
 layout: landingpage

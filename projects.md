@@ -19,8 +19,8 @@ pagebox1text: Even if your important documents are mostly printed on paper or yo
   and provide a fully searchable transcript. Have a mix of documents and videos? No
   problem! We can combine them into one online MultimediaSearch database. <a href="/services/video-document-conversion/">Learn
   more...</a>
-pagebox2link: search/
-pagebox2head: Transcript &amp; Document Full Text Search
+pagebox2link: document-management-services-video-management-services/
+pagebox2head: Document and Video Management Services
 pagebox2subhead: Unlock the Power of Full-Text Search
 pagebox2img: search.jpg
 pagebox2text: Moving to the cloud is a great idea for any organization of any size,
@@ -59,4 +59,3 @@ pagebox5text: With MultimediaSearch, your videos are also your documents. You ca
   wanted to share a particular clip of a video? Now you can. <a href="clipping/">Learn
   more...</a>
 ---
-
