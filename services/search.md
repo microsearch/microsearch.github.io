@@ -1,5 +1,5 @@
 ---
-title: Document & Video Management Services
+title: Document and Video Management Services
 permalink: "/services/document-management-services-video-management-services"
 position: 12
 id: search
