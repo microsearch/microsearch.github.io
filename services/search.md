@@ -4,7 +4,8 @@ permalink: "/services/document-management-services-video-management-services/"
 position: 12
 id: search
 layout: landingpage
-description: MicroSearch provides document management services and video management services and search engine software.
+description: MicroSearch provides document management services and video management
+  services and search engine software.
 weight: 2
 bannertext: Document and Video Management Services
 bannertext2: Online Database Services for PDFs and Videos
