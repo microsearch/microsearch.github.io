@@ -2,7 +2,7 @@
 title: Mobile Apps
 permalink: "/mobile/"
 id: mobile
-description: Video Library Mobile: Full featured Apple iOS Video Apps
+description: Video Library Mobile - Full featured Apple iOS Video Apps
 weight: 3
 bannertext: Searchable Video in the Palm of Your Hand
 bannertext2: Full Featured iOS Video Apps
