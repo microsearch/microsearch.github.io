@@ -9,9 +9,10 @@ bannertext2: Video &amp; Document Digitization, Search, and SEO
 homecol1link: services/video-document-conversion/
 homecol1head: Video &amp; Document Conversion
 homecol1img: vids.jpg
-homecol1text: As part of the full MultimediaSearch solution, we can convert your
-  documents and videos in any format--reel, VHS, DVD, etc.--into digital files,
-  complete with transcripts, and incorporated into your own online library. We are your online video converter, and more!
+homecol1text: As part of the full MultimediaSearch solution, we can convert your documents
+  and videos in any format--reel, VHS, DVD, etc.--into digital files, complete with
+  transcripts, and incorporated into your own online library. We are your online video
+  converter, and more!
 homecol2link: services/document-management-services-video-management-services
 homecol2head: Document and Video Management Services
 homecol2img: search.jpg
@@ -65,3 +66,4 @@ abouttext: MicroSearch Corporation was founded in 1996 near Boston. We are a bou
   useful and valuable by providing new viewer enhancement features to client videos...Find,
   Navigate, Clip.</p>
 ---
+
