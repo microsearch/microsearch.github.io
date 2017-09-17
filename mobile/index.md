@@ -2,10 +2,10 @@
 title: Mobile Apps
 permalink: "/mobile/"
 id: mobile
-description: Your Searchable Video Library in the Palm of Your Hand
+description: Video Library Mobile: Full featured Apple iOS Video Apps
 weight: 3
-bannertext: Your searchable Video Library in the Palm of Your Hand
-bannertext2: Full Featured iOS Apps for Your Videos
+bannertext: Searchable Video in the Palm of Your Hand
+bannertext2: Full Featured iOS Video Apps
 col1head: Bring your entire video library with you...
 col1img: ios-app.png
 col1text: "<p>Your searchable Video Library is a powerful tool when accessed from
@@ -25,4 +25,3 @@ highlight3: Scrolling transcripts, easy navigation, and full text search.
 highlight4: <a href="/contact/">Get in Touch</a>. Get a Free Demo.
 layout: landingpage-1col
 ---
-
