@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 title: Mobile Apps
 permalink: "/mobile/"
 id: mobile
@@ -25,7 +24,4 @@ highlight2: Get a fully customized iOS app featuring your video content.
 highlight3: Scrolling transcripts, easy navigation, and full text search.
 highlight4: <a href="/contact/">Get in Touch</a>. Get a Free Demo.
 layout: landingpage-1col
-=======
->>>>>>> origin/master
 ---
-
