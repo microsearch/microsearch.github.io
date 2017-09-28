@@ -2,8 +2,9 @@
 title: Video and Document Conversion, Digitization, Search, and SEO
 position: 8
 layout: home
-description: MicroSearch provides Video and Document Conversion, Digitization, Search, and SEO
-  for a wide variety of clients in the professional, educational, and labor sectors.
+description: MicroSearch provides Video and Document Conversion, Digitization, Search,
+  and SEO for a wide variety of clients in the professional, educational, and labor
+  sectors.
 bannertext1: Your Entire Office, Online
 bannertext2: Video &amp; Document Conversion & Digitization, Search, and SEO
 homecol1link: services/video-document-conversion/
@@ -16,9 +17,9 @@ homecol1text: As part of the full MultimediaSearch solution, we can convert your
 homecol2link: services/document-management-services-video-management-services
 homecol2head: Document and Video Management Services
 homecol2img: search.jpg
-homecol2text: MultimediaSearch's online database service makes your documents (digital or paper) and video transcripts
-  (automatically created or professionally generated) infinitely more valuable by
-  indexing every word for full search capabilities.
+homecol2text: MultimediaSearch's online database service makes your documents (digital
+  or paper) and video transcripts (automatically created or professionally generated)
+  infinitely more valuable by indexing every word for full search capabilities.
 homecol3link: services/seo/
 homecol3head: Video Search Engine Optimization &amp; Marketing
 homecol3img: searchcomp.jpg
@@ -31,15 +32,16 @@ homecol4head: Video Learning Management Systems for Distance Learning
 homecol4img: coffeeshop.jpg
 homecol4text: Online videos can be an indispensable educational tool. But keeping
   track of media can feel like a full time job. That’s where we come in. MultimediaSearch
-  from Microsearch lets you collect all your videos into one searchable learning management system and
-  publish it on a personalized website. No more sending students to YouTube, where
-  distractions abound.
+  from Microsearch lets you collect all your videos into one searchable learning management
+  system and publish it on a personalized website. No more sending students to YouTube,
+  where distractions abound.
 homecol5link: services/clipping/
 homecol5head: Advanced Video Clip &amp; Share Capabilities
 homecol5img: social.jpg
 homecol5text: With MultimediaSearch, your videos are also your documents. You can
   read a transcript as it scrolls along side your video. Clicking a line in the transcript
-  will jump to the part of the video in which the line is spoken. You can easily create a video clip and share online video effortlessly.
+  will jump to the part of the video in which the line is spoken. You can easily create
+  a video clip and share online video effortlessly.
 homecol6link: mobile/
 homecol6head: iOS Video Apps - Your Video Wherever You Go
 homecol6img: app_ss.png
@@ -65,3 +67,4 @@ abouttext: MicroSearch Corporation was founded in 1996 near Boston. We are a bou
   useful and valuable by providing new viewer enhancement features to client videos...Find,
   Navigate, Clip.</p>
 ---
+
