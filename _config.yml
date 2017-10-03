@@ -23,4 +23,5 @@ defaults:
 permalink: pretty
 gems:
 - jekyll-seo-tag
+- jekyll-sitemap
 google_analytics: UA-19403127-1
