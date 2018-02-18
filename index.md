@@ -1,5 +1,5 @@
 ---
-title: Video and Document Conversion, Digitization, Search, and SEO
+title: Video and Document Conversion, Digitization, Database Search, and SEO
 position: 8
 layout: home
 description: MicroSearch provides Video and Document Conversion, Digitization, Search,
@@ -67,4 +67,3 @@ abouttext: MicroSearch Corporation was founded in 1996 near Boston. We are a bou
   useful and valuable by providing new viewer enhancement features to client videos...Find,
   Navigate, Clip.</p>
 ---
-
