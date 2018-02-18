@@ -2,9 +2,8 @@
 title: Video and Document Conversion, Digitization, Database Search, and SEO
 position: 8
 layout: home
-description: MicroSearch provides Video and Document Digitization, Search,
-  and SEO for a wide variety of clients in the professional, educational, and labor
-  sectors.
+description: MicroSearch provides Video and Document Digitization, Search, and SEO
+  for a wide variety of clients in the professional, educational, and labor sectors.
 bannertext1: Your Entire Office, Online
 bannertext2: Video &amp; Document Conversion & Digitization, Database Search, and
   SEO
@@ -68,3 +67,4 @@ abouttext: MicroSearch Corporation was founded in 1996 near Boston. We are a bou
   useful and valuable by providing new viewer enhancement features to client videos...Find,
   Navigate, Clip.</p>
 ---
+
