@@ -1,5 +1,5 @@
 ---
-title: Document and Video Management Services
+title: Document and Video Database Services
 permalink: "/services/document-management-services-video-management-services/"
 position: 12
 id: search
@@ -34,4 +34,3 @@ highlight2: Search the full text and metadata for all your videos and documents.
 highlight3: Jump to the exact moment in a video where your query appears.
 highlight4: <a href="/contact/">Get in Touch</a>. Get a Free Demo.
 ---
-
