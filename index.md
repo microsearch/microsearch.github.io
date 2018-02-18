@@ -15,7 +15,7 @@ homecol1text: As part of the full MultimediaSearch solution, we can convert your
   transcripts, and incorporated into your own online library. We are your online video
   converter, document digitizer, and more!
 homecol2link: services/document-management-services-video-management-services
-homecol2head: Document and Video Management Services
+homecol2head: Document and Video Database Services
 homecol2img: search.jpg
 homecol2text: MultimediaSearch's online database service makes your documents (digital
   or paper) and video transcripts (automatically created or professionally generated)
@@ -67,4 +67,3 @@ abouttext: MicroSearch Corporation was founded in 1996 near Boston. We are a bou
   useful and valuable by providing new viewer enhancement features to client videos...Find,
   Navigate, Clip.</p>
 ---
-
