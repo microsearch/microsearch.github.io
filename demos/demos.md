@@ -3,7 +3,7 @@ title: Demos
 permalink: "/demos/"
 position: 4
 layout: page
-weight: 3
+weight: 4
 type: page
 description: MicroSearch provides advanced video search capabilities. Check out some
   live demos and contact us to get your own demo today!
