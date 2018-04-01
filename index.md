@@ -3,7 +3,7 @@ title: Document Conversion, Indexing, and Metadata Tagging
 position: 8
 description: MicroSearch provides Document Digitization, Metadata Indexing, and online
   document search and retrieval for clients with large numbers of important documents
-  across the country in the professional, educational, and labor sectors.
+  in the professional, educational, and labor sectors.
 bannertext1: All Your Critical Documents, Instantly Available
 bannertext2: Document Digitization, Indexing, and Metadata tagging for superior SEO
   results.
