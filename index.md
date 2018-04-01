@@ -1,26 +1,27 @@
 ---
-title: Video and Document Conversion, Digitization, Database Search, and SEO
+title: Document Conversion, Indexing, and Metadata Tagging
 position: 8
-description: MicroSearch provides Video and Document Digitization, Database Search,
-  and SEO for a wide variety of clients in the professional, educational, and labor
-  sectors.
+description: MicroSearch provides Document Digitization, Metadata Indexing, and online
+  document search and retrieval for clients with large numbers of important documents
+  across the country in the professional, educational, and labor sectors.
 bannertext1: All Your Critical Documents, Instantly Available
-bannertext2: Video &amp; Document Digitization, Database Search, and SEO
+bannertext2: Document Digitization, Indexing, and Metadata tagging for superior SEO
+  results.
 homecol1link: services/video-document-conversion/
 homecol1head: Video &amp; Document Conversion
 homecol1img: vids.jpg
-homecol1text: As part of the full MultimediaSearch solution, we can convert your documents
-  and videos in any format--reel, VHS, DVD, etc.--into digital files, complete with
-  transcripts, and incorporated into your own online library. We are your online video
-  converter, document digitizer, and more!
-homecol2link: services/document-management-services-video-management-services
-homecol2head: Document and Video Database Services
+homecol1text: As part of our Document Search solution, we will convert your documents
+  from any format into digital files, complete with searchable metadata, and incorporated
+  into your own private online library. Your documents are secure with us, but still
+  instantly available to you!
+homecol2link: services/document-and-video-management-services
+homecol2head: Document and Metadata Search and Retrieval Services
 homecol2img: search.jpg
-homecol2text: MultimediaSearch's online database service makes your documents (digital
-  or paper) and video transcripts (automatically created or professionally generated)
-  infinitely more valuable by indexing every word for full search capabilities.
+homecol2text: MicroSearch's online database service makes your documents (digital
+  or paper)  infinitely more valuable through full-text search and retrieval for all
+  document contents and document metadata.
 homecol3link: services/seo/
-homecol3head: Video Search Engine Optimization &amp; Marketing
+homecol3head: Search Engine Optimization for Enhanced Online Access
 homecol3img: searchcomp.jpg
 homecol3text: Your documents and videos can be a valuable SEO tool, but if their text
   is not fully indexed and if they're hosted offsite, you're not getting that value.
