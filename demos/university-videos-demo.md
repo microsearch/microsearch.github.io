@@ -7,7 +7,7 @@ weight: 2
 description: |-
   MicroSearch's University Video Demo aggregates the metadata and transcripts of the videos from the main YouTube Channels of each the 8 Ivy League Schools. Search, browse, and read along with transcripts from the world's top universities.
 
-  Questions?  eMail Chuck at CEO@MicroSearch.net
+  Questions?  e-Mail Chuck at CEO@MicroSearch.net
 sections:
 - <li><a href="/demos/ivy-league-videos/">Ivy League Videos</a></li> <li><a href="/demos/university-videos/">University
   Videos</a></li>
@@ -25,4 +25,4 @@ This new MultimediaSearch portal contains the metadata of the YouTube Channels o
 
 [![alt text]({{site.baseurl}}/images/univideo.png "University Videos")](http://www.universityvideos.org){:target="_blank"}
 
-Questions?  eMail Chuck at CEO@MicroSearch.net
+Questions?  e-Mail Chuck at CEO@MicroSearch.net
