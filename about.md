@@ -9,7 +9,7 @@ description: Microsearch provides Video and Document Digitization, Search, and S
   for a wide variety of clients in the professional, educational, and labor sectors.
 ---
 
-MicroSearch Corporation was founded in 1996 near Boston. We are a search engine company, and provide video and document search engine services for client organizations across the country, providing hosted portal solutions.
+MicroSearch Corporation was founded in 1996 near Boston. We are a content management services company.  We specialize in custom search engine services, and provide both **video and document search engine** services for client organizations across the country, providing hosted portal solutions.
 
 We convert client video transcripts and documents into searchable digital libraries, and host that digital content online in secure web portals.
 
