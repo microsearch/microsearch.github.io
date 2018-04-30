@@ -1,5 +1,6 @@
 ---
 title: About Us
+permalink: "/about/"
 position: 0
 sections:
 - <li><a href="/about/">About Us</a></li>
