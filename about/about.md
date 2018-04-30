@@ -1,8 +1,6 @@
 ---
 title: About Us
 position: 0
-weight: 1
-type: page
 sections:
 - <li><a href="/about/">About Us</a></li>
 - <li><a href="/about/team/">Management Team</a></li>
