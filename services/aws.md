@@ -4,7 +4,8 @@ permalink: "/services/amazon-web-services-migration-solutions/"
 position: 6
 id: aws
 layout: landingpage
-description: MicroSearch can help your organization move existing applications to the AWS cloud to reduce cost, increase agility, and improve security.
+description: MicroSearch can help your organization move existing applications to
+  the AWS cloud to reduce cost, increase agility, and improve security.
 weight: 2
 bannertext: Amazon Web Services Migration Solutions
 bannertext2: MicroSearch Can Help You Move to the Cloud
@@ -33,3 +34,4 @@ highlight2: Search the full text and metadata for all your videos and documents.
 highlight3: Jump to the exact moment in a video where your query appears.
 highlight4: <a href="/contact/">Get in Touch</a>. Get a Free Demo.
 ---
+
