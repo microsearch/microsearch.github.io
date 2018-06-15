@@ -15,7 +15,7 @@ homecol1text: As part of our Document Search solution, we will convert your docu
   from any format into digital files, complete with searchable metadata, and incorporated
   into your own private online library. Your documents are secure with us, but still
   instantly available to you!
-homecol2link: services/document-and-video-management-services
+homecol2link: services/document-management-services-video-management-services/
 homecol2head: Document and Metadata Search and Retrieval Services
 homecol2img: search.jpg
 homecol2text: MicroSearch's online database service makes your documents (digital
@@ -69,4 +69,3 @@ abouttext: MicroSearch Corporation was founded in 1996 near Boston. We are a bou
   Navigate, Clip.</p>
 layout: home
 ---
-
