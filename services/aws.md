@@ -1,6 +1,7 @@
 ---
 title: Amazon Web Services Migration Solutions
 permalink: "/services/amazon-web-services-migration-solutions/"
+published: false
 position: 6
 id: aws
 description: MicroSearch can help your organization move existing applications to
