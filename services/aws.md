@@ -1,7 +1,7 @@
 ---
 title: Amazon Web Services Migration Solutions
 permalink: "/services/amazon-web-services-migration-solutions/"
-published: false
+published: true
 position: 6
 id: aws
 description: MicroSearch can help your organization move existing applications to
@@ -9,30 +9,18 @@ description: MicroSearch can help your organization move existing applications t
 weight: 2
 bannertext: Amazon Web Services Migration Solutions
 bannertext2: MicroSearch Can Help You Move to the Cloud
-col1head: One Online Database for Documents and Videos.
-col1img: vids.jpg
-col1text: Whether your content is videos, documents, or a mix of both, MultimediaSearch
-  is the answer. MultimediaSearch is a fully searchable document management service
-  paired with the industry's best video management service, combined. Browse your
-  documents and videos in our industry-leading table of contents, or search full text
-  and meta-data across your entire collection.
-col2head: Full Text Search + Metadata = Everything
-col2img: search.jpg
-col2text: MultimediaSearch isn't just about full-text search, though that is a powerful
-  tool. We also index metadata--information about the documents--that is also searchable.
-  So, for example, you can find a document that contains a particular string of text
-  and printed on a particular date. The only limit to the metadata we can index is
-  the information you can provide us.
-col3head: Search Your Way to Answers
-col3img: searchcomp.jpg
-col3text: Typically, the only way to navigate online videos is by clicking the timing
-  bar at the bottom of a video player. But this is inefficient. With fully indexed
-  searchable transcripts, users can search their way into a video and even skip to
-  the content they're interested in by clicking the transcript.
-highlight1: Online document and video management services with full text search.
-highlight2: Search the full text and metadata for all your videos and documents.
-highlight3: Jump to the exact moment in a video where your query appears.
+col1head: Scalable and Secure AWS Cloud Solutions
+col1img: aws1.png
+col1text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ante felis, aliquet sed tempor vitae, ornare eu velit. Morbi mattis vel magna non porta. Pellentesque sodales dapibus mi non eleifend. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ante felis, aliquet sed tempor vitae, ornare eu velit. Morbi mattis vel magna non porta.
+col2head: End to End Migration Assistance
+col2img: aws2.png
+col2text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ante felis, aliquet sed tempor vitae, ornare eu velit. Morbi mattis vel magna non porta. Pellentesque sodales dapibus mi non eleifend. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ante felis, aliquet sed tempor vitae, ornare eu velit. Morbi mattis vel magna non porta.
+col3head: Web Hosting Cost Optimization
+col3img: aws3.png
+col3text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ante felis, aliquet sed tempor vitae, ornare eu velit. Morbi mattis vel magna non porta. Pellentesque sodales dapibus mi non eleifend. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ante felis, aliquet sed tempor vitae, ornare eu velit. Morbi mattis vel magna non porta.
+highlight1: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+highlight2: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+highlight3: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 highlight4: <a href="/contact/">Get in Touch</a>. Get a Free Demo.
 layout: landingpage
 ---
-

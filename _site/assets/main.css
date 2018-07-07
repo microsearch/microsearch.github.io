@@ -567,6 +567,10 @@ pre {
   background: url("../images/share.jpg") bottom no-repeat;
   background-size: cover; }
 
+#awsbanner {
+  background: url("../images/cloud.jpg") bottom no-repeat;
+  background-size: cover; }
+
 .landingbanner {
   width: 100%;
   height: 360px;
