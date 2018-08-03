@@ -152,7 +152,7 @@ pre {
  */
 .site-header {
   border-bottom: 1px solid #e8e8e8;
-  height: 52px;
+  height: 56px;
   position: fixed;
   background: #fff;
   opacity: .95;
@@ -170,7 +170,7 @@ pre {
     color: #757575; }
 
 .site-title img {
-  width: 200px;
+  height: 50px;
   padding: 4px 0; }
 
 .site-nav {
@@ -321,7 +321,7 @@ pre {
  * Page content
  */
 .page-content {
-  padding: 51px 0 20px 0;
+  padding: 56px 0 20px 0;
   background: #ededed;
   background: -moz-linear-gradient(top, #ededed 0%, #f6f6f6 16%, white 44%, white 100%);
   background: -webkit-gradient(left top, left bottom, color-stop(0%, #ededed), color-stop(16%, #f6f6f6), color-stop(44%, white), color-stop(100%, white));
