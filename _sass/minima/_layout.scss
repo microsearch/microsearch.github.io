@@ -3,7 +3,7 @@
  */
 .site-header {
   border-bottom: 1px solid $grey-color-light;
-  height: 56px;
+  height: 48px;
   position: fixed;
   background: #fff;
   opacity: .95;
@@ -29,13 +29,13 @@
 }
 
 .site-title img {
-  height: 50px;
+  width: 200px;
   padding: 4px 0;
 }
 
 .site-nav {
   float: right;
-  margin-top: 12px;
+  margin-top: 10px;
   @include media-query($on-palm) {
       margin-top: 0px;
   }
@@ -243,7 +243,7 @@
  * Page content
  */
 .page-content {
-  padding: 56px 0 $spacing-unit 0;
+  padding: 48px 0 $spacing-unit 0;
   background: rgba(237,237,237,1);
   background: -moz-linear-gradient(top, rgba(237,237,237,1) 0%, rgba(246,246,246,1) 16%, rgba(255,255,255,1) 44%, rgba(255,255,255,1) 100%);
   background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(237,237,237,1)), color-stop(16%, rgba(246,246,246,1)), color-stop(44%, rgba(255,255,255,1)), color-stop(100%, rgba(255,255,255,1)));
@@ -343,8 +343,8 @@
 }
 
 #rcolumn_landing {
-	width: -webkit-calc(20% - #{$spacing-unit});
-  padding: $spacing-unit;
+	width: 22%;
+  padding: $spacing-unit 0;
   text-align: left;
   float: right;
 
@@ -384,11 +384,13 @@
 #rcolumn_landing h2 {
   font-style: italic;
   color: #888;
+  border-bottom: solid 1px #e8e8e8;
 }
 
 .highlight_box {
   color: #fff;
-  font-size: 18px;
+  font-size: 1.2em;
+  line-height: 1.2em;
   display: block;
   padding: 10px;
   background: $brand-color;
@@ -419,7 +421,7 @@
 
 #lcolumn_landing {
 	width: -webkit-calc(75% - #{$spacing-unit} - 1px);
-  padding: $spacing-unit;
+  padding: 0 $spacing-unit;
   border-right: solid 1px $grey-color-light;
   float: left;
 
@@ -525,6 +527,7 @@
 #homebanner {
   background: url("../images/office2.png") bottom no-repeat;
   background-size: cover;
+  margin-bottom: $spacing-unit;
 }
 
 
@@ -570,7 +573,6 @@
 .landingbanner {
   width: 100%;
   height: 360px;
-  margin-bottom: $spacing-unit;
   background-size: cover;
 
 @include media-query($on-palm) {
@@ -611,7 +613,7 @@
 }
 
 .landingcolumn {
-  width: -webkit-calc(100% - #{$spacing-unit});
+  width: 100%;
   padding: 0 $spacing-unit $spacing-unit 0;
 }
 
@@ -619,6 +621,7 @@
   width: 363px;
   float: left;
   padding: 0 $spacing-unit $spacing-unit 0;
+  margin-top: 20px;
 }
 
 .landingcolumn img.mobileimg {
@@ -626,18 +629,17 @@
 }
 
 .middle img {
-  float: right;
-  padding: 0 0 $spacing-unit $spacing-unit;
+
 }
 
 .middle h2 {
-  text-align: right;
 }
 
 .landingcolumn h2 {
   border-bottom: solid 1px $grey-color-light;
   color: $brand-color;
   clear: both;
+  margin-bottom: 0px;
 }
 
 .landingcolumn li {

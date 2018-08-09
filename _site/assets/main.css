@@ -152,7 +152,7 @@ pre {
  */
 .site-header {
   border-bottom: 1px solid #e8e8e8;
-  height: 56px;
+  height: 48px;
   position: fixed;
   background: #fff;
   opacity: .95;
@@ -170,12 +170,12 @@ pre {
     color: #757575; }
 
 .site-title img {
-  height: 50px;
+  width: 200px;
   padding: 4px 0; }
 
 .site-nav {
   float: right;
-  margin-top: 12px; }
+  margin-top: 10px; }
   @media screen and (max-width: 700px) {
     .site-nav {
       margin-top: 0px; } }
@@ -321,7 +321,7 @@ pre {
  * Page content
  */
 .page-content {
-  padding: 56px 0 20px 0;
+  padding: 48px 0 20px 0;
   background: #ededed;
   background: -moz-linear-gradient(top, #ededed 0%, #f6f6f6 16%, white 44%, white 100%);
   background: -webkit-gradient(left top, left bottom, color-stop(0%, #ededed), color-stop(16%, #f6f6f6), color-stop(44%, white), color-stop(100%, white));
@@ -395,8 +395,8 @@ pre {
       text-align: left; } }
 
 #rcolumn_landing {
-  width: -webkit-calc(20% - 20px);
-  padding: 20px;
+  width: 22%;
+  padding: 20px 0;
   text-align: left;
   float: right; }
   @media screen and (max-width: 700px) {
@@ -427,11 +427,13 @@ pre {
 
 #rcolumn_landing h2 {
   font-style: italic;
-  color: #888; }
+  color: #888;
+  border-bottom: solid 1px #e8e8e8; }
 
 .highlight_box {
   color: #fff;
-  font-size: 18px;
+  font-size: 1.2em;
+  line-height: 1.2em;
   display: block;
   padding: 10px;
   background: #675c9a;
@@ -456,7 +458,7 @@ pre {
 
 #lcolumn_landing {
   width: -webkit-calc(75% - 20px - 1px);
-  padding: 20px;
+  padding: 0 20px;
   border-right: solid 1px #e8e8e8;
   float: left; }
   @media screen and (max-width: 700px) {
@@ -538,7 +540,8 @@ pre {
 /* Landing pages */
 #homebanner {
   background: url("../images/office2.png") bottom no-repeat;
-  background-size: cover; }
+  background-size: cover;
+  margin-bottom: 20px; }
 
 #conversionbanner {
   background: url("../images/vids-large.jpg") bottom no-repeat;
@@ -574,7 +577,6 @@ pre {
 .landingbanner {
   width: 100%;
   height: 360px;
-  margin-bottom: 20px;
   background-size: cover; }
   @media screen and (max-width: 700px) {
     .landingbanner {
@@ -606,28 +608,23 @@ pre {
       margin: 0; } }
 
 .landingcolumn {
-  width: -webkit-calc(100% - 20px);
+  width: 100%;
   padding: 0 20px 20px 0; }
 
 .landingcolumn img {
   width: 363px;
   float: left;
-  padding: 0 20px 20px 0; }
+  padding: 0 20px 20px 0;
+  margin-top: 20px; }
 
 .landingcolumn img.mobileimg {
   width: 220px; }
 
-.middle img {
-  float: right;
-  padding: 0 0 20px 20px; }
-
-.middle h2 {
-  text-align: right; }
-
 .landingcolumn h2 {
   border-bottom: solid 1px #e8e8e8;
   color: #675c9a;
-  clear: both; }
+  clear: both;
+  margin-bottom: 0px; }
 
 .landingcolumn li {
   margin-left: 20px;
