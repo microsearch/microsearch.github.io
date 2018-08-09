@@ -3,7 +3,8 @@ title: Affordable AWS Migration Assessment
 permalink: "/services/amazon-web-services-migration-assessment/"
 position: 6
 id: aws
-description: MicroSearch can help your organization assess the viability of a move to the cloud through Amazon Web Services consultation.
+description: MicroSearch can help your organization assess the viability of a move
+  to the cloud through Amazon Web Services consultation.
 weight: 2
 bannertext: Considering the Cloud?
 bannertext2: Introducing MicroSearch's Affordable AWS Migration Assessment
@@ -34,3 +35,4 @@ highlight3: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 highlight4: <a href="/contact/">Get in Touch</a>. Get a Free Demo.
 layout: landingpage
 ---
+
