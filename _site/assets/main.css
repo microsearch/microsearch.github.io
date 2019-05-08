@@ -387,11 +387,13 @@ pre {
 
 #lcolumn {
   width: -webkit-calc(20% - 20px);
+  width: calc(20% - 20px);
   padding: 20px;
   text-align: right; }
   @media screen and (max-width: 700px) {
     #lcolumn {
       width: -webkit-calc(100% - 20px);
+      width: calc(100% - 20px);
       text-align: left; } }
 
 #rcolumn_landing {
@@ -402,6 +404,7 @@ pre {
   @media screen and (max-width: 700px) {
     #rcolumn_landing {
       width: -webkit-calc(100% - 20px * 2);
+      width: calc(100% - 20px * 2);
       text-align: left;
       float: none; } }
 
@@ -449,27 +452,32 @@ pre {
 
 #rcolumn {
   width: -webkit-calc(75% - 20px - 1px);
+  width: calc(75% - 20px - 1px);
   padding: 20px;
   border-left: solid 1px #e8e8e8; }
   @media screen and (max-width: 700px) {
     #rcolumn {
       width: -webkit-calc(100% - 20px);
+      width: calc(100% - 20px);
       border-left: none; } }
 
 #lcolumn_landing {
   width: -webkit-calc(75% - 20px - 1px);
+  width: calc(75% - 20px - 1px);
   padding: 0 20px;
   border-right: solid 1px #e8e8e8;
   float: left; }
   @media screen and (max-width: 700px) {
     #lcolumn_landing {
       width: -webkit-calc(100% - 20px * 2);
+      width: calc(100% - 20px * 2);
       border-right: none;
       float: none; } }
 
 /* Homepage and Landing Pages */
 .homecolumn {
   width: -webkit-calc(33% - 20px);
+  width: calc(33% - 20px);
   float: left;
   padding: 0 20px 0 0; }
   @media screen and (max-width: 700px) {
@@ -479,7 +487,8 @@ pre {
 
 .homecolumn h2 {
   border-bottom: solid 1px #e8e8e8;
-  color: #675c9a; }
+  color: #675c9a;
+  min-height: 85px; }
 
 .homecolumn p {
   margin: 20px 0;
@@ -645,7 +654,8 @@ pre {
   border-radius: 10px; }
   @media screen and (max-width: 700px) {
     .contactform {
-      width: -webkit-calc(100% - 20px); } }
+      width: -webkit-calc(100% - 20px);
+      width: calc(100% - 20px); } }
 
 #contactbox input,
 #contactbox textarea {
@@ -657,7 +667,8 @@ pre {
   border-radius: 10px;
   display: block;
   margin: 0 0 15px 0;
-  width: -webkit-calc(100% - 20px); }
+  width: -webkit-calc(100% - 20px);
+  width: calc(100% - 20px); }
 
 #contactbox textarea {
   height: 80px; }
@@ -683,6 +694,7 @@ pre {
   @media screen and (max-width: 700px) {
     #ccol1 {
       width: -webkit-calc(100% - 20px);
+      width: calc(100% - 20px);
       text-align: left; } }
 
 #ccol2 {
@@ -690,6 +702,7 @@ pre {
   @media screen and (max-width: 700px) {
     #ccol2 {
       width: -webkit-calc(100% - 20px);
+      width: calc(100% - 20px);
       text-align: left; } }
 
 /* Demos pages */

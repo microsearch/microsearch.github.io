@@ -332,11 +332,13 @@
 
 #lcolumn {
 	width: -webkit-calc(20% - #{$spacing-unit});
+  width: calc(20% - #{$spacing-unit});
   padding: $spacing-unit;
   text-align: right;
 
 @include media-query($on-palm) {
   width: -webkit-calc(100% - #{$spacing-unit});
+  width: calc(100% - #{$spacing-unit});
   text-align: left;
 }
 
@@ -350,6 +352,7 @@
 
 @include media-query($on-palm) {
   width: -webkit-calc(100% - #{$spacing-unit} * 2);
+  width: calc(100% - #{$spacing-unit} * 2);
   text-align: left;
   float: none;
 }
@@ -409,11 +412,13 @@
 
 #rcolumn {
 	width: -webkit-calc(75% - #{$spacing-unit} - 1px);
+  width: calc(75% - #{$spacing-unit} - 1px);
   padding: $spacing-unit;
   border-left: solid 1px $grey-color-light;
 
   @include media-query($on-palm) {
     width: -webkit-calc(100% - #{$spacing-unit});
+    width: calc(100% - #{$spacing-unit});
     border-left: none;
   }
 
@@ -421,12 +426,14 @@
 
 #lcolumn_landing {
 	width: -webkit-calc(75% - #{$spacing-unit} - 1px);
+  width: calc(75% - #{$spacing-unit} - 1px);
   padding: 0 $spacing-unit;
   border-right: solid 1px $grey-color-light;
   float: left;
 
   @include media-query($on-palm) {
     width: -webkit-calc(100% - #{$spacing-unit} * 2);
+    width: calc(100% - #{$spacing-unit} * 2);
     border-right: none;
     float: none;
   }
@@ -438,6 +445,7 @@
 
 .homecolumn {
   width: -webkit-calc(33% - #{$spacing-unit});
+  width: calc(33% - #{$spacing-unit});
   float: left;
   padding: 0 $spacing-unit 0 0;
 
@@ -451,6 +459,7 @@
 .homecolumn h2 {
   border-bottom: solid 1px $grey-color-light;
   color: $brand-color;
+  min-height: 85px;
 }
 
 .homecolumn p {
@@ -663,6 +672,7 @@
   border-radius: 10px;
   @include media-query($on-palm) {
     width: -webkit-calc(100% - #{$spacing-unit});
+    width: calc(100% - #{$spacing-unit});
   }
 }
 
@@ -677,6 +687,7 @@
   display: block;
   margin: 0 0 15px 0;
   width: -webkit-calc(100% - #{$spacing-unit});
+  width: calc(100% - #{$spacing-unit});
 }
 
 #contactbox textarea {
@@ -706,6 +717,7 @@
   width: 50%;
   @include media-query($on-palm) {
     width: -webkit-calc(100% - #{$spacing-unit});
+    width: calc(100% - #{$spacing-unit});
     text-align: left;
   }
 }
@@ -714,6 +726,7 @@
   width: 35%;
   @include media-query($on-palm) {
     width: -webkit-calc(100% - #{$spacing-unit});
+    width: calc(100% - #{$spacing-unit});
     text-align: left;
   }
 }
